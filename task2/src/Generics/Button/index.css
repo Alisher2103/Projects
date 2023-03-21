@@ -1,0 +1,14 @@
+.btn{
+    min-width: 100px;
+    border: none;
+    outline: none;
+    padding: 8px 15px;
+    background-color:#6347F9;
+    color: #FFF;
+    font-weight: 700;
+    border-radius: 3px;
+}
+
+.btn:active{
+    transform:scale(0.97) ;
+}
